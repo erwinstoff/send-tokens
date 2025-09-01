@@ -116,6 +116,6 @@ export default function Home() {
       }}>
         {status}
       </div>
-    </div>
+    </div> 
   );
 }
